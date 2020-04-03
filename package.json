@@ -1,0 +1,22 @@
+{
+  "name": "react-native-testingdemo-module",
+  "version": "1.0.0",
+  "description": "testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanishsharmacbl/demomodule.git"
+  },
+  "author": "hanishsharmacbl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanishsharmacbl/demomodule/issues"
+  },
+  "homepage": "https://github.com/hanishsharmacbl/demomodule#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.59.0"
+  }
+}
