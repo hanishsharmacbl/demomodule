@@ -1,3 +1,3 @@
-import Header from './src/Header';
+import { Header } from './src/Header';
 
 export { Header };
