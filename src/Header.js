@@ -20,13 +20,13 @@ export const Header = ({ leftTitle, centerTitle }) => {
             }}>
             {
                 leftTitle ?
-                    <Text style={{ color: "white", fontSize: 22, fontFamily: "bold" }}>{leftTitle}</Text>
+                    <Text style={{ color: "white", fontSize: 22, fontWeight: "bold" }}>{leftTitle}</Text>
                     :
                     null
             }
             {
                 centerTitle ?
-                    <Text style={{ color: "white", fontSize: 22, fontFamily: "bold" }}>{centerTitle}</Text>
+                    <Text style={{ color: "white", fontSize: 22, fontWeight: "bold" }}>{centerTitle}</Text>
                     :
                     null
             }
