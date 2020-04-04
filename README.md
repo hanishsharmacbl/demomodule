@@ -2,7 +2,7 @@
 Just for testing
 
 Installation
-npm install --save react-native-size-matters
+npm install --save react-native-testingdemo-module
 
 Api
 
