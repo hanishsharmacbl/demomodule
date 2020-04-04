@@ -1,6 +1,6 @@
 {
   "name": "react-native-testingdemo-module",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "testing",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/hanishsharmacbl/demomodule#readme",
   "devDependencies": {
     "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "dependencies": {
+    "react-native-size-matters": "^0.3.0"
   }
 }
