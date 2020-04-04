@@ -59,13 +59,12 @@ export const Header = (
             }
             {
                 rightTitle ?
-                    <Text style={{ color: rightTitleColor, fontSize: fontSize, fontWeight: "bold" }}>{rightTitle}</Text>
+                    <Text style={{ color: rightTitleColor, fontSize: fontSize, fontWeight: fontWeight }}>{rightTitle}</Text>
                     :
                     <TouchableOpacity activeOpacity={0.5} onPress={rightIconOnPress}>
                         <Image source={rightIcon} />
                     </TouchableOpacity>
             }
-            <View />
         </View>
     );
 };
